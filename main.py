@@ -65,7 +65,7 @@ def chat_loop():
             {
                 "role": "model",
                 "parts": [
-                    "kya hall hai\n",
+                    "hi \n",
                 ],
             }
         ]
